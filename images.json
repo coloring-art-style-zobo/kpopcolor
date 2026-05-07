@@ -371,6 +371,18 @@
         {
             "bgImageName": "Idol",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/kpopcolor/refs/heads/main/n3.png"
+        },
+        {
+            "bgImageName": "Idol",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/kpopcolor/refs/heads/main/n4.png"
+        },
+        {
+            "bgImageName": "Idol",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/kpopcolor/refs/heads/main/n5.png"
+        },
+        {
+            "bgImageName": "Idol",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/kpopcolor/refs/heads/main/n6.png"
         }
     ]
 }
